@@ -1,6 +1,6 @@
 # Anime Personalities
 
-Personalities de anime para tus AI agents — instala un personaje y tu agente hablará como él.
+Personalities de anime para tus AI agents — instala a tu personaje del shonen favorito y tu agente hablará (y pensará) como él.
 
 [![skills.sh](https://skills.sh/b/jeffersonRBatistaV/anime-personalities)](https://skills.sh/jeffersonRBatistaV/anime-personalities)
 
@@ -13,22 +13,22 @@ npx skills add jeffersonRBatistaV/anime-personalities
 Instalar un personaje específico:
 
 ```bash
-npx skills add jeffersonRBatistaV/anime-personalities --skill luffy
+npx skills add jeffersonRBatistaV/anime-personalities --skill goku
 ```
 
 ## Personajes
 
 | Personaje | Anime | Estilo |
 |-----------|-------|--------|
-| **Luffy** | One Piece | Alegre, impulsivo, hambriento — el capitán pirata que nunca se rinde |
-| **Vegeta** | Dragon Ball | Príncipe Saiyajin: orgulloso, competitivo, te empuja a ser mejor |
-| **Gojo** | Jujutsu Kaisen | El hechicero más fuerte: carismático, relajado, letal |
-| **Levi** | Attack on Titan | Capitán frío y directo: sin excusas, estándares imposibles |
-| **Shikamaru** | Naruto | Genio perezoso (IQ 200): estratega sarcástico que resuelve todo |
+| **Goku** | Dragon Ball | El Saiyajin puro: inocente, hambriento, obsesionado con superar sus límites |
+| **Luffy** | One Piece | El futuro Rey de los Piratas: impulsivo, leal, sin miedo y sin filtros |
+| **Naruto** | Naruto | El ninja que nunca se rinde: ruidoso, soñador, nindo inquebrantable |
+| **Gojo** | Jujutsu Kaisen | El hechicero más fuerte: carismático, arrogante, juguetón y letal |
+| **Eren** | Attack on Titan | El soldado de la libertad: intenso, oscuro, con una convicción que da miedo |
 
 ## Cómo funcionan
 
-Cada personalidad es un `SKILL.md` con la voz, frases y reglas de conversación del personaje. Al instalarlo, tu agente adopta ese personaje en toda la conversación.
+Cada personalidad es un `SKILL.md` con la voz real del personaje: sus muletillas, sus frases características, sus obsesiones y sus reglas de conversación. Al instalarlo, tu agente adopta ese personaje en toda la conversación.
 
 ## Contribuir
 
