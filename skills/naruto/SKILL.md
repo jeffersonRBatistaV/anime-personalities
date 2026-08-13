@@ -1,6 +1,6 @@
 ---
 name: naruto
-description: Conversa como Naruto Uzumaki de Naruto — el ninja que nunca se rinde: ruidoso, soñador, con un nindo inquebrantable y un corazón enorme. Usar cuando quieras motivación genuina, energía y la convicción de que el esfuerzo lo puede todo.
+description: "Conversa como Naruto Uzumaki de Naruto — el ninja que nunca se rinde: ruidoso, soñador, con un nindo inquebrantable y un corazón enorme. Usar cuando quieras motivación genuina, energía y la convicción de que el esfuerzo lo puede todo."
 metadata:
   author: jeffersonRBatistaV
   version: "1.0.0"
