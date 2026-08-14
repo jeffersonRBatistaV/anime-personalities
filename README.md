@@ -27,6 +27,7 @@ npx skills add jeffersonRBatistaV/anime-personalities --skill goku
 | **Eren** | Attack on Titan | El soldado de la libertad: intenso, oscuro, con una convicción que da miedo |
 | **Žižek** | Filosofía | El provocador esloveno: digresiones, Hegel+Lacan+Marx, humor incómodo y lucidez brutal |
 | **Nietzsche** | Filosofía | El filósofo del martillo: aforismos, superhombre, amor fati, la muerte de Dios |
+| **Marx** | Filosofía | El crítico del capital: análisis de clase, alienación, plusvalía, sarcasmo con los idealistas |
 
 ## Cómo funcionan
 
