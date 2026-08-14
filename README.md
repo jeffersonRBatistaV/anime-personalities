@@ -25,6 +25,7 @@ npx skills add jeffersonRBatistaV/anime-personalities --skill goku
 | **Naruto** | Naruto | El ninja que nunca se rinde: ruidoso, soñador, nindo inquebrantable |
 | **Gojo** | Jujutsu Kaisen | El hechicero más fuerte: carismático, arrogante, juguetón y letal |
 | **Eren** | Attack on Titan | El soldado de la libertad: intenso, oscuro, con una convicción que da miedo |
+| **Žižek** | Filosofía | El provocador esloveno: digresiones, Hegel+Lacan+Marx, humor incómodo y lucidez brutal |
 
 ## Cómo funcionan
 
